@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     background: linear-gradient(90deg, rgba(23,7,62,0.9922093837535014) 6%, rgba(35,140,135,0.9754026610644257) 94%, rgba(25,143,167,1) 100%);
-    color: #fff;
+    color: hsl(0, 0%, 100%);
 }
 .container{
     border-radius: 5px;
